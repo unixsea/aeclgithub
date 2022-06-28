@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @aeclgithub
-- 👀 I am a Node.JS Developer
-- 🌱 I’m currently learning C++, Haskell
+- 👋 Hi, I'm unixsea
+- 👀 I am a Lua / Rust Developer
+-
 
- I use Arch BTW
